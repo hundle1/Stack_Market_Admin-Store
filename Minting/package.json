@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "jspython-interpreter": "^2.1.15"
+  }
+}
